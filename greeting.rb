@@ -1,5 +1,5 @@
 def greeting
-  puts "Hi, Ruby Programmer""
+  puts "Hi, Ruby Programmer"
 end
 
 greeting
